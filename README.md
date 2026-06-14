@@ -77,6 +77,4 @@ ollama run llama3
 streamlit run 86_Marvellous_Intelligent_Document_Question_Answering_System.py
 ```
 
-## Author
 
-Implemented and explored as part of AI/ML training while learning Retrieval-Augmented Generation (RAG), Vector Databases, and Large Language Models.
