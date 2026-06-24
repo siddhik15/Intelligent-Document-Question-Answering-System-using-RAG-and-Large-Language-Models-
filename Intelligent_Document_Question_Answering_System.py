@@ -2,7 +2,6 @@
 # =========================================================
 # Project Name : Intelligent Document Question Answering System
 #                using RAG and Large Language Models
-#
 # Description  :
 # This project allows the user to upload a PDF document and ask
 # questions based on its content. The system uses RAG architecture,
