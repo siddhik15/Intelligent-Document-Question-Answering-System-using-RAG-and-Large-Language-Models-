@@ -75,7 +75,7 @@ ollama run llama3
 ## Run Application
 
 ```bash
-streamlit run 86_Marvellous_Intelligent_Document_Question_Answering_System.py
+streamlit run Intelligent_Document_Question_Answering_System.py
 ```
 
 
