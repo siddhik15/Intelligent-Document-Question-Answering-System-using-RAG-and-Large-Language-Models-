@@ -203,36 +203,35 @@ Generate Final Answer
 
 ## 📸 Screenshots
 
-> Create a folder named **`screenshots`** inside your repository and add the images with the exact names used below.
 
 ### 🖼️ Application Demo Gallery
 
 <p align="center">
-  <img src="screenshots/upload_pdf_document.png" alt="Upload PDF Document" width="800"/>
+  <img src="image/upload_pdf_document.png" alt="Upload PDF Document" width="800"/>
 </p>
 
 <p align="center"><b>Upload PDF Document Interface</b></p>
 
 <p align="center">
-  <img src="screenshots/extracted_text_preview.png" alt="Extracted Text Preview" width="800"/>
+  <img src="image/extracted_text_preview.png" alt="Extracted Text Preview" width="800"/>
 </p>
 
 <p align="center"><b>Extracted Text Preview and Chunk Statistics</b></p>
 
 <p align="center">
-  <img src="screenshots/generated_answer.png" alt="Generated Answer" width="800"/>
+  <img src="image/generated_answer.png" alt="Generated Answer" width="800"/>
 </p>
 
 <p align="center"><b>Generated Answer using Retrieved Context</b></p>
 
 <p align="center">
-  <img src="screenshots/technical_concepts.png" alt="Technical Concepts Used" width="700"/>
+  <img src="image/technical_concepts.png" alt="Technical Concepts Used" width="700"/>
 </p>
 
 <p align="center"><b>Technical Concepts Used in the Project</b></p>
 
 <p align="center">
-  <img src="screenshots/rag_architecture_flow.png" alt="RAG Architecture Flow" width="800"/>
+  <img src="image/rag_architecture_flow.png" alt="RAG Architecture Flow" width="800"/>
 </p>
 
 <p align="center"><b>Complete RAG Architecture Flow</b></p>
@@ -266,22 +265,7 @@ Some possible future enhancements for this project are:
 - Deploy the application on cloud platforms
 - Improve UI/UX for a more chatbot-like experience
 
----
 
-## 📂 Project Structure
-
-```bash
-Intelligent-Document-Question-Answering-System-using-RAG-and-Large-Language-Models/
-│── Intelligent_Document_Question_Answering_System.py
-│── requirements.txt
-│── README.md
-│── screenshots/
-│   ├── upload_pdf_document.png
-│   ├── extracted_text_preview.png
-│   ├── generated_answer.png
-│   ├── technical_concepts.png
-│   └── rag_architecture_flow.png
-```
 
 ---
 
