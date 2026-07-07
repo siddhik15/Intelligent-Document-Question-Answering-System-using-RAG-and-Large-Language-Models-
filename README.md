@@ -203,39 +203,37 @@ Generate Final Answer
 
 ## 📸 Screenshots
 
-
 ### 🖼️ Application Demo Gallery
 
 <p align="center">
-  <img src="image/upload_pdf_document.png" alt="Upload PDF Document" width="800"/>
+  <img src="Image/upload_pdf_document.png" alt="Upload PDF Document" width="800"/>
 </p>
 
 <p align="center"><b>Upload PDF Document Interface</b></p>
 
 <p align="center">
-  <img src="image/extracted_text_preview.png" alt="Extracted Text Preview" width="800"/>
+  <img src="Image/extracted_text_preview.png" alt="Extracted Text Preview" width="800"/>
 </p>
 
 <p align="center"><b>Extracted Text Preview and Chunk Statistics</b></p>
 
 <p align="center">
-  <img src="image/generated_answer.png" alt="Generated Answer" width="800"/>
+  <img src="Image/generated_answer.png" alt="Generated Answer" width="800"/>
 </p>
 
 <p align="center"><b>Generated Answer using Retrieved Context</b></p>
 
 <p align="center">
-  <img src="image/technical_concepts.png" alt="Technical Concepts Used" width="700"/>
+  <img src="Image/technical_concepts.png" alt="Technical Concepts Used" width="700"/>
 </p>
 
 <p align="center"><b>Technical Concepts Used in the Project</b></p>
 
 <p align="center">
-  <img src="image/rag_architecture_flow.png" alt="RAG Architecture Flow" width="800"/>
+  <img src="Image/rag_architecture_flow.png" alt="RAG Architecture Flow" width="800"/>
 </p>
 
 <p align="center"><b>Complete RAG Architecture Flow</b></p>
-
 ---
 
 ## 📚 Learning Outcomes
